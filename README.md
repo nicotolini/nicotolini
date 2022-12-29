@@ -17,7 +17,7 @@ Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web 
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"></a>
 
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://icon-library.com/images/react-icon/react-icon-29.jpg"></a>
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="js" height ="42px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></a>
 
