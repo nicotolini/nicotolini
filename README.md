@@ -33,4 +33,4 @@ Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web 
 
 ### 🛠️ Mis proyectos
 
-<a href="https://github.com/Santibrito/bankMindHub" target="_blank"> <img alt="passwordkeeper" src="[https://i.ibb.co/2k7y0bB/cdnlogo-com-deutsche-bank.png](https://cdn3d.iconscout.com/3d/premium/thumb/weather-3260422-2725115.png)" height="63" align="left"> </a>
+<a href="https://github.com/Santibrito/bankMindHub" target="_blank"> <img alt="passwordkeeper" src="https://cdn3d.iconscout.com/3d/premium/thumb/weather-3260422-2725115.png" height="63" align="left"> </a>
